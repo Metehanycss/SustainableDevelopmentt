@@ -1,0 +1,25 @@
+Terminalde yapılacak kurulum işlemleri;
+
+1. Çalışma klasörüne gidiniz.
+
+
+2. Sanal ortam oluşturun;
+
+python -m venv env
+
+
+3. Sanal ortamı aktifleştirme;
+
+.\env\Scripts\activate
+
+
+4. Kütüphaneleri yükleme;
+
+pip install pandas matplotlib
+pip install openpyxl
+
+
+5. python kodunu çalıştırma;
+
+python verigörselleştirme.py
+ 
